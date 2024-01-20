@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Aditya - The Code Composer! 🚀
+# 👋 Hey there, I’m Aditya - Crafting Code with Curiosity!🚀
 
 - 👀 Fueling my curiosity in Software Development for the enchanting worlds of Data Science, Statistics, and the magic of ML/DL & NLP.
 - 🎮 SDET Experiecne in Android Multimedia & DSP 
